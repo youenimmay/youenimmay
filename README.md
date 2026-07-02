@@ -71,12 +71,6 @@ Digital learning management platform for structured robotics education
 
 ---
 
-## 📊 GitHub Stats
-
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youenimmay&show_icons=true&theme=default&hide=issues)
-
----
-
 💡 *Open to opportunities in digital transformation consulting, automation engineering, and Industry 4.0 implementation*
 
 🎯 *Passionate about bridging traditional engineering with modern digital technologies to create measurable business value*

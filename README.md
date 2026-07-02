@@ -58,7 +58,7 @@ Digital learning management platform for structured robotics education
 ## 🌍 Languages
 
 🇬🇧 **English** - Fluent  
-🇫🇷 **Français** - Professionnel  
+🇫🇷 **Français** - Fluent 
 🇱🇧 **Arabic** - Native  
 🇩🇪 **Deutsch** - B1 (Intermediate)
 

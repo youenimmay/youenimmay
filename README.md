@@ -66,7 +66,7 @@ Digital learning management platform for structured robotics education
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Yammine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-yammine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Yammine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yammine-youssef)
 [![Email](https://img.shields.io/badge/Email-yammine.y%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yammine.y@gmail.com)
 
 ---
